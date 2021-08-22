@@ -23,7 +23,7 @@ the following information:
 After reviewing this information, the election committee has requested additional information with regards to the individual county showings.  The challenge is to enhance the starter code used to develop the initial audit information to also include the additional requests.    
 
 #### Resources provided
-- Data Source:  election_results.csv  To see data file click ![Here]([election_results.csv](https://github.com/AswithaB/Election_Analysis/files/7026566/election_results.csv)
+- Data Source:  election_results.csv  To see data file click ![Here](https://github.com/AswithaB/Election_Analysis/blob/main/Resources/election_results.csv)
 - Software:  Python 3.8.8, Visual Studio code
 
 ## Election-Audit Results
@@ -79,7 +79,7 @@ The script provided for this audit is able to calculate the total votes, votes b
 * The votes by candidate by county - the election commission could then see which candidate won in each county and not just the overall winner
 * The script could also calculate the candidate winning the most counties which may be different than the overall popular vote
 
-The code for this analysis can be found ![here:](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/PyPoll_Challenge.py)
+The code for this analysis can be found ![here:](https://github.com/AswithaB/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
-A text file of the results of the analysis can be found ![here:](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Analysis/election_analysis.txt)
+A text file of the results of the analysis can be found ![here:](https://github.com/AswithaB/Election_Analysis/blob/main/Analysis/election_analysis.txt)
 
