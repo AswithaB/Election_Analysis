@@ -53,7 +53,7 @@ The results of this loop code shows the total votes cast as follows:
  * THE COUNTY WITH THE LARGEST VOTES
   >To identify the winning county, an `if statement` is used with a comparison `variable` within the `for` loop to check and see if the accumulated amount of votes in the `dictionary` is bigger than the prior winning county count and if so, replace the winning county count until the whole dataset has been processed.  This comparison variable is initiated to 0 at the beginning of the code. 
   
-  ![winner code](https://user-images.githubusercontent.com/85645485/130341709-1dc4d667-8bce-4e67-9038-27efb5d25d5d.PNG)
+  ![winning county](https://user-images.githubusercontent.com/85645485/130341711-355241df-ac6a-48ab-8931-8e389baf9679.PNG)
   
   >The result of this program gives us the county with the largest turnout: 
   
